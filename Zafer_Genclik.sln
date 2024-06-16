@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zafer_Genclik", "Zafer_Genclik\Zafer_Genclik.csproj", "{3CAC9496-456F-4241-AEA0-15BB94CD2795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CAC9496-456F-4241-AEA0-15BB94CD2795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CAC9496-456F-4241-AEA0-15BB94CD2795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CAC9496-456F-4241-AEA0-15BB94CD2795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CAC9496-456F-4241-AEA0-15BB94CD2795}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57AF1ABC-9B3E-41BA-AA3C-D0EDA77337F0}
+	EndGlobalSection
+EndGlobal
